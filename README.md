@@ -1,4 +1,4 @@
-# Trabalho Cassandra - Banco de Dados NoSQL
+# Aplicação Cassandra - Banco de Dados NoSQL
 
 Projeto desenvolvido como parte da disciplina de **Banco de Dados NoSQL** do curso de Big Data no Agronegócio. O objetivo principal é implementar um sistema de cadastro e gerenciamento de clientes, produtos e pedidos, utilizando o banco de dados **Apache Cassandra**.
 
